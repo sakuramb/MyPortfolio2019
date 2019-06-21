@@ -1,0 +1,43 @@
+body {
+  background-color: white;
+  font-size: 14px;
+  color: white;
+  margin: 0;
+}
+
+.header-title-area {
+  background-color: #c2d6ec;
+  width: 100%;
+  height: 130px;
+  position: relative;
+}
+
+.title {
+  float:left;
+  font-size: 20px;
+  position: absolute;
+  bottom: 0;
+}
+
+.navMenu {
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+}
+
+.navMenu li{
+  display: inline-block;
+}
+
+.container {
+  display: flex;
+}
+.main {
+  background: pink;
+  width: 100%;
+}
+
+
+footer {
+  background: plum;
+}
